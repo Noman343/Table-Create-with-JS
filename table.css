@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+    width: 300px;
+    margin: auto;
+    letter-spacing: 5px;
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input{
+    border: none;
+    border-radius: 5px;
+    height: 20px;
+    font-size: 17px;
+
+}
+table{
+    text-align: justify;
+    margin-top: 20px;
+    box-shadow: 0px 5px 15px 5px rgba(0,0,0,0.5);
+}
+button{
+    background-color: gray;
+    border:none;
+    border-radius: 5px;
+    font-size: 17px;
+}
+button:hover{
+    background-color: hotpink;
+}
